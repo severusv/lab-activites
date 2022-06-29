@@ -1,0 +1,3 @@
+Enter a character: 
+n
+n is a consonant.

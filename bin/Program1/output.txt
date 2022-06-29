@@ -1,0 +1,9 @@
+Enter a number
+43
+Enter another number
+2
+The sum is 45
+The difference is 41
+The product is 86
+The quotient is 21
+The remainder is 1

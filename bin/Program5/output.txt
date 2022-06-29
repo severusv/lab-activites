@@ -1,0 +1,9 @@
+Enter your name
+name
+Enter your roll number
+34
+Enter your marks
+89 
+Your name is name
+Your roll number is 34
+Your grade is B

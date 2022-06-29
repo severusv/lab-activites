@@ -1,0 +1,7 @@
+Enter a number
+34
+Enter another number
+45
+Enter another number
+56
+56 is the greatest number.
